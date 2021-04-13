@@ -11,10 +11,12 @@ Our first step in this challenge was to import and prepare the data that was pro
 Import the following at the beginning of your jupyter notebook:
 
 ```python
-import numpy as np
 import pandas as pd
 import hvplot.pandas
-import sqlalchemy
+from path import Path
+from sklearn.cluster import KMeans
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler
 ```
 
 ---
