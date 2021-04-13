@@ -23,17 +23,13 @@ from sklearn.preprocessing import StandardScaler
 
 ## Example
 
-This image shows how we launch the Voila web app from the terminal. Notice how we type in "Voila etf_analyzer.ipynb" into the terminal. The web app then launches.
+This image shows how we used the elbow method and generated the line chart that showed us the best value for K.
 
-![voila1.png](voila1.png)
+![cryptoinvest1.png](cryptoinvest1.png)
 
-The following image shows what the Voila web app looks like. In this part we see a graph of the Paypal stock cummulative returns.
+The following image shows the comparison of a scatter plot for PCA Crypto clusters Where K=4 and a scatter plot for PCA Crypto clusters Where K=5. Notice how k=4 appears to cluster the groups more accurately.
 
-![voila2.png](voila2.png)
-
-This final image also shows what the Voila web app looks like. In this part we see a graph of the entire ETF cummulative returns.
-
-![voila3.png](voila3.png)
+![cryptoinvest2.png](cryptoinvest2.png)
 
 ---
 
