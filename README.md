@@ -2,7 +2,9 @@
 
 This is the repository for my module 10 challenge. In this module challenge, we applied unserpervised machine learning algorithims from the Python scikit-learn library to analyze crypto investments.
 
-Our first step in this challenge was to import and prepare the data that was provided to us. Next, we used K-means to cluster the cryptocurrencies according to price changes. Next, we used the elbow method and plotted a line chart to fine the best value for k. We then optimized clusters and reduced to 3 principal components using Principal Component Analysis. Lastly, using the PCA data, we plotted results for both k=4 and k=5 to determine the best possible value for k. 
+Our first step in this challenge was to import and prepare the data that was provided to us. Next, we used K-means to cluster the cryptocurrencies according to price changes. Next, we used the elbow method and plotted a line chart to fine the best value for k. We then optimized clusters and reduced to 3 principal components using Principal Component Analysis. Lastly, using the PCA data, we plotted results for both k=4 and k=5 to determine the best possible value for k.
+
+#### Note for viewer - Due to the file size, you are unable to see the crypto_investments.ipynb file in the Github viewer. In order to see it you have to download the file and run the notebook.
 
 ---
 
